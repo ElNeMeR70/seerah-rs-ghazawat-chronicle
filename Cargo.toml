@@ -1,0 +1,10 @@
+[package]
+name = "seerah-rs-ghazawat-chronicle"
+version = "1.0.0"
+edition = "2021"
+description = "Prophetic Ghazawat & Saraya Chronological & Strategic Analyzer"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "seerah_rs_ghazawat_chronicle"
+path = "main.rs"
